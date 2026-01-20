@@ -1,0 +1,14 @@
+[26512:22452:0120/154917.898:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26512:35884:0120/154917.931:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26512:22452:0120/154917.945:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26512:22452:0120/154920.009:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[31016:15688:0120/154921.922:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-788EFA69A41CDBD2413C2C492B3FB558 will be ignored
+[26512:31436:0120/154923.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[26512:22452:0120/154924.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[26512:22452:0120/154924.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[26512:22452:0120/154924.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[26512:22452:0120/154924.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[26512:31436:0120/154924.262:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[26512:22452:0120/154926.399:ERROR:device_event_log_impl.cc(196)] [15:49:26.396] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26512:22452:0120/154927.054:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension ngpampappnmepgilojfohadhhmbhlaek
+[26512:22452:0120/155856.400:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
